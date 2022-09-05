@@ -17,6 +17,6 @@
 
 <style>
 	canvas {
-		background-color: #242424;
+		background-color: yellow;
 	}
 </style>
